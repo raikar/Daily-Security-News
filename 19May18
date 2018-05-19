@@ -1,0 +1,36 @@
+Major (probably not only) US cell carriers are selling access to the real-time phone location data.
+Because, you know the Electronic Communications Privacy Act only restricts telecommunication companies from disclosing data to the government, it doesn't restrict disclosure to other companies. Which can resell back to the gov. Hacker News discussion on a topic is quite informative.
+https://www.zdnet.com/article/us-cell-carriers-selling-access-to-real-time-location-data/
+https://news.ycombinator.com/item?id=17081684
+
+Guardian wrote that according to the Oracle findings, Android devices send detailed information on searches, what is being viewed and also precise locations to the Google. Even if location services are turned off and the smartphone does not have a Sim card or application installed.
+https://www.theguardian.com/technology/2018/may/14/australian-regulator-investigates-google-data-harvesting-from-android-phones
+
+A new report details a widespread campaign targeting several Turkish activists and protesters by their government, using the government malware made by FinFisher.
+https://motherboard.vice.com/en_us/article/wjb8g5/finfisher-turkey-twitter-spyware
+
+A new set of vulnerabilities affecting users of PGP and S/MIME were published. The main problem lies in how email clients handle the output of the encryption tool, the protocol itself is not vulnerable, GnuPG should be fine.
+https://efail.de/
+https://www.benthamsgaze.org/2018/05/15/tampering-with-openpgp-digitally-signed-messages-by-exploiting-multi-part-messages/
+https://lists.gnupg.org/pipermail/gnupg-users/2018-May/060315.html
+
+Cryptocurrency mining malware was found in the Ubuntu Snap Store.
+https://blog.ubuntu.com/2018/05/15/trust-and-security-in-the-snap-store
+
+Essential reading on how spies are able to shape narrative of a journalistic pieces by document leaking.
+https://www.nytimes.com/2018/05/12/sunday-review/when-spies-hack-journalism.html
+
+The US media has learned the identity of the prime suspect in the Vault7 WikiLeaks CIA breach. Should be a 29-year-old former C.I.A. software engineer, government malware writer.
+https://www.nytimes.com/2018/05/15/us/cia-hacking-tools-leak.html
+
+Great blog post about math behind and existing implementations of the homomorphic encryption.
+https://blog.n1analytics.com/homomorphic-encryption-illustrated-primer/
+
+There is an article about the common encryption workarounds in the criminal investigations written by Orin S. Kerr and Bruce Schneier.
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2938033
+
+Sunder is a new desktop application for dividing access to secret information between multiple participants using Shamir's secret sharing method.
+https://freedom.press/news/meet-sunder-new-way-share-secrets/
+
+DARKSURGEON is a Windows packer project to empower incident response, malware analysis, and network defense.
+https://medium.com/@cryps1s/darksurgeon-a-windows-10-packer-project-for-defenders-1a57759856b6
