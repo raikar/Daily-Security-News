@@ -1,0 +1,32 @@
+500,000 routers in more than 50 countries are infected with the malware targeting routers. Primarily home devices like Linksys, MikroTik, NETGEAR and TP-Link.
+Cisco's Talos Security attributed malware to the future Russian cyber operations against the Ukraine. The US FBI agents seize control of the botnet.
+https://blog.talosintelligence.com/2018/05/VPNFilter.html
+https://www.thedailybeast.com/exclusive-fbi-seizes-control-of-russian-botnet
+
+The Internet Archive's Wayback Machine is deleting evidence on the malware sellers. They have removed from their archive a webpage of a Thailand-based firm FlexiSpy, which offers desktop and mobile malware.
+https://motherboard.vice.com/en_us/article/nekzzq/wayback-machine-deleting-evidence-flexispy
+
+According to the McAfee team, North Korean threat actor Sun Team is targeting defectors using the malicious Android applications on Google Play.
+https://securingtomorrow.mcafee.com/mcafee-labs/malware-on-google-play-targets-north-korean-defectors/
+
+Don't use sha256crypt & sha512crypt primitives as shipped with GNU/Linux, they're leaking information about the password via time duration of a hashing operation.
+Not critical vulnerability, but good to know.
+https://pthree.org/2018/05/23/do-not-use-sha256crypt-sha512crypt-theyre-dangerous/
+
+The Intercept published an interesting article about the Japanese signals intelligence agency, based on Snowden's leaks.
+https://theintercept.com/2018/05/19/japan-dfs-surveillance-agency/
+
+The US FBI repeatedly overstated encryption threat figures to Congress and the public.
+https://www.washingtonpost.com/world/national-security/fbi-repeatedly-overstated-encryption-threat-figures-to-congress-public/2018/05/22/5b68ae90-5dce-11e8-a4a4-c070ef53f315_story.html
+
+The US internet provider Comcast was leaking the usernames and passwords of customers’ wireless routers to anyone with the valid subscriber’s account number and street address number.
+https://techcrunch.com/2018/05/21/comcast-is-leaking-the-names-and-passwords-of-customers-wireless-routers/
+
+Amazon is pitching their facial recognition technology to law enforcement agencies, saying the program could aid criminal investigations by recognizing suspects in photos and videos.
+https://www.nytimes.com/2018/05/22/technology/amazon-facial-recognition.html
+
+Great blog about the SMS binary payloads and how SMS is weakening mobile security for years.
+https://www.contextis.com/blog/binary-sms-the-old-backdoor-to-your-new-thing
+
+Researchers from the Eclypsium found a new variation of the Spectre attack that can allow attackers to recover data stored inside CPU System Management Mode. They have even published Proof-of-concept.
+https://blog.eclypsium.com/2018/05/17/system-management-mode-speculative-execution-attacks/
