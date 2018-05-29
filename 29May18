@@ -1,0 +1,22 @@
+Researchers Defeat AMD's SEV Virtual Machine Encryption
+security researchers claim to have found a new practical attack against virtual machines (VMs) protected using AMD's Secure Encrypted Virtualization (SEV) technology that could allow attackers to recover plaintext memory data from guest VMs.
+https://thehackernews.com/2018/05/amd-sev-encryption.html
+
+Z-Wave Downgrade Attack Left Over 100 Million IoT Devices Open to Hackers
+Researchers have found that even after having an advanced encryption scheme in place, more than 100 million Internet-of-Things (IoT) devices from thousands of vendors are vulnerable to a downgrade attack that could allow attackers to gain unauthorized access to your devices.
+https://threatpost.com/millions-of-iot-devices-vulnerable-to-z-wave-downgrade-attacks-researchers-claim/132295/
+
+Oracle Plans to Drop Java Serialization Support, the Source of Most Security Bugs
+Oracle plans to drop support for data serialization/deserialization from the main body of the Java language, according to Mark Reinhold, chief architect of the Java platform group at Oracle.
+https://www.bleepingcomputer.com/news/security/oracle-plans-to-drop-java-serialization-support-the-source-of-most-security-bugs/
+
+FBI: Reboot your router to stop Russia-linked malware
+An analysis by Talos, the threat intelligence division for the tech giant Cisco, estimated that at least 500,000 routers in at least 54 countries had been infected by the malware, which the FBI and cybersecurity researchers are calling VPNFilter.
+https://www.seattletimes.com/nation-world/fbi-reboot-your-router-to-stop-russia-linked-malware/
+
+A nice read:
+A sample JPG image used by VPNFilter for delivering C2 IP to victims. Then the malware calculates the IP from the Latitude and Longitude found in EXIF data. https://securelist.com/vpnfilter-exif-to-c2-mechanism-analysed/85721/
+Banking malware employs a new technique to bypass dedicated browser protection measures:-  https://www.welivesecurity.com/2018/05/25/backswap-malware-empty-bank-accounts/
+Blog about the SMS binary payloads and how SMS is weakening mobile security for years:- https://www.contextis.com/blog/binary-sms-the-old-backdoor-to-your-new-thing
+Why Is Your Location Data No Longer Private? https://krebsonsecurity.com/2018/05/why-is-your-location-data-no-longer-private/
+Intel Engine Firmware Analysis Tool:- https://github.com/platomav/MEAnalyzer
