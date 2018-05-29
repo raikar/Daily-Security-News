@@ -1,0 +1,21 @@
+Flaws in IBM QRadar Allow Remote Command Execution
+Three vulnerabilities discovered by a researcher in IBM’s QRadar product can be chained for an exploit that allows a remote and unauthenticated attacker to bypass authentication and execute arbitrary commands with root privileges.
+https://www.securityweek.com/flaws-ibm-qradar-allow-remote-command-execution
+
+Despite Ringeader’s Arrest, Cobalt Group Still Active
+The threat actors behind widespread attacks on banks and ATM jackpotting campaigns in Russia and Europe resurfaced in may, attacking banks
+https://threatpost.com/despite-ringeaders-arrest-cobalt-group-still-active/132306/
+
+Two Canadian Banks Announce Hacks Over the Weekend
+Two Canadian banks put out statements on Monday announcing separate cyber-incidents affecting their customers. The two are Simplii Financial, a subsidiary of CIBC, and the Bank of Montreal
+https://www.bleepingcomputer.com/news/security/two-canadian-banks-announce-hacks-over-the-weekend/
+
+Critical RCE Flaw Discovered in Blockchain-Based EOS Smart Contract System
+Researchers have discovered a series of new vulnerabilities in EOS blockchain platform, one of which could allow remote hackers to take complete control over the node servers running the critical blockchain-based applications.
+https://thehackernews.com/2018/05/eos-blockchain-smart-contract.html
+
+Apple’s Macs Fall Prey to New Crypto Mining Attack
+According to American Internet Security company Malwarebytes Inc., a recently discovered malicious XMRig-based crypto mining program is targeting Apple’s Mac computers by leeching their computing resources to mine Monero cryptocurrency
+https://bitsonline.com/apple-mac-cryptojacking-attack-crypto/
+
+A nice read on Google’s reCAPTCHA bypass via HTTP Parameter Pollution https://andresriancho.com/recaptcha-bypass-via-http-parameter-pollution/
