@@ -1,0 +1,26 @@
+Accused Yahoo Hacker Gets Five Years in Prison, Fine
+A man accused of taking part in devastating cyberattacks on Yahoo for Russian intelligence agents was sentenced Tuesday to five years in prison in a plea bargain with prosecutors.
+https://www.securityweek.com/accused-yahoo-hacker-gets-five-years-prison-fine
+https://www.bleepingcomputer.com/news/security/hacker-who-worked-with-fsb-agents-in-email-hacks-gets-5-years-in-prison/
+
+US issues warning about North Korean malware
+US government has identified more than 85 networks compromised by two malware families believed to be North Korean in origin
+https://www.computerweekly.com/news/252442088/US-issues-warning-about-North-Korean-malware
+
+Brazillian banking trojan MnuBot Exfiltrates Data Via MSSQL
+The MnuBot malware uses a Microsoft SQL Server database server to communicate with the sample and send commands to be executed on the infected machine
+https://securityintelligence.com/new-banking-trojan-mnubot-discovered-by-ibm-x-force-research/
+https://threatpost.com/brazilian-banking-trojan-communicates-via-microsoft-sql-server/132325/
+
+Malicious Git Repository Can Lead to Code Execution on Remote Systems
+The developers behind Git and various companies providing Git repository hosting services have pushed out a fix to patch a dangerous vulnerability in the Git source code versioning software.
+https://www.bleepingcomputer.com/news/security/malicious-git-repository-can-lead-to-code-execution-on-remote-systems/
+
+Report: Amazon Cloud Is Being Used To Harvest Cryptocurrency By Hackers
+Hackers are using malware hosted on Amazon’s cloud service to harvest cryptocurrency, according to a security software company.
+http://dailycaller.com/2018/05/29/amazon-cloud-cryptocurrency-hackers/
+
+A nice writeup on ZenMate VPN Browser Extension Deanonymization & Hijacking Vulnerability (3.5 Million Affected Users) https://thehackerblog.com/zenmate-vpn-browser-extension-deanonymization-hijacking-vulnerability-3-5-million-affected-users/index.html
+Blog which describes the buffer overflow and shows how the researcher bypassed the original patch in a couple of hours. https://www.zerodayinitiative.com/blog/2018/5/29/malicious-intent-using-adobe-acrobats-ocg-setintent
+WICKED targets IoT devices with exploits following port scans via raw socket SYN connections on specific devices  http://techgenix.com/wicked-botnet/
+Google Sheets Data Exfiltration via Formula Injection https://www.notsosecure.com/data-exfiltration-formula-injection/
