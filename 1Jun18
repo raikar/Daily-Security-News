@@ -1,0 +1,38 @@
+Valve Patches Security Bug That Existed in Steam Client for the Past Ten Years
+According to Tom Court, a security researcher with Context Information Security, the one who discovered the flaw, the vulnerability would have allowed an attacker to execute malicious code on any of Steam's 15 million gaming clients.
+https://www.bleepingcomputer.com/news/security/valve-patches-security-bug-that-existed-in-steam-client-for-the-past-ten-years/
+https://www.contextis.com/blog/frag-grenade-a-remote-code-execution-vulnerability-in-the-steam-client
+
+Spike in FIFA World Cup phishing scams
+Researchers  detected a spike in the number of phishing pages appearing during match ticket sales, alongside a general rise in the number of football-related spam and World Cup-themed attacks.
+http://www.itpro.co.uk/phishing/31207/kaspersky-spots-spike-in-world-cup-phishing-scams
+
+Google Patches 34 Browser Bugs in Chrome 67, Adds Spectre Fixes
+Google has rolled out its newest browser version (Chrome 67.0.3396.62) for Windows, Mac and Linux this week with new Spectre patch, biometric features, improved VR and added support for the credential management API called WebAuthn
+https://threatpost.com/google-patches-34-browser-bugs-in-chrome-67-adds-spectre-fixes/132370/
+
+U.S. Judge Dismisses Kaspersky Suit Challenging Software Ban
+Two Kaspersky Lab lawsuits against the US government were dismissed, halting the Russian software company's attempt to avoid a ban on its products by US agencies.  
+https://www.wsj.com/articles/judge-dismisses-kaspersky-suit-challenging-software-ban-1527711772
+
+Dozens of Vulnerabilities Discovered in DoD's Enterprise Travel System
+White-hat hackers participating in a US DoD’s bug bounty initiative recently rooted out 65 unique security vulnerabilities in the Defense Travel System (DTS), an enterprise application used by millions of DoD workers worldwide
+https://www.darkreading.com/analytics/dozens-of-vulnerabilities-discovered-in-dods-enterprise-travel-system/d/d-id/1331927
+
+Remote Code Execution Vulnerability Disclosed in Windows JScript Component
+Recent flaws discovered in handling of error objects by JScript, allows attacker to execute arbitrary code. Although exploitation does not lead to a full system compromise.
+https://www.bleepingcomputer.com/news/security/remote-code-execution-vulnerability-disclosed-in-windows-jscript-component/
+
+Banking Botnet Operators Team Up to Leverage IcedID and TrickBot Trojan
+Researchers discovered the collaboration while studying the IcedID malware – they quickly realized that computers infected with IcedID were also downloading the other Trojan, TrickBot.
+https://threatpost.com/botnet-operators-team-up-to-leverage-icedid-trickbot-trojans/132392/
+
+Q4 DDoS report 2017: From bad to worse
+According to the Q4 2017 Global DDoS Threat Landscape Report the number of application layer attacks nearly doubled, just as the number of network layer assaults declined. In both cases, however, attacks grew more persistent.
+http://www.information-age.com/ddos-report-2017-123472141/
+
+Other interesting read:
+Sony PS4 4.55 BPF Race Condition Kernel Exploit Writeup https://github.com/Cryptogenic/Exploit-Writeups/blob/master/FreeBSD/PS4%204.55%20BPF%20Race%20Condition%20Kernel%20Exploit%20Writeup.md
+ZeroDay: Microsoft Windows JScript Error Object Use-After-Free Remote Code Execution Vulnerability. https://www.zerodayinitiative.com/advisories/ZDI-18-534/
+Nice writeup on Side-channel attacking browsers through CSS3 features https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/
+IBM QRadar unauthenticated remote code execution (writeup + exploit) : https://blogs.securiteam.com/index.php/archives/3689
