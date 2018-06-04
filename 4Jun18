@@ -1,0 +1,34 @@
+Google Pixel 2 devices implement insider attack resistance in the tamper-resistant hardware security module that guards the encryption keys for user data.
+It is not possible to upgrade the firmware that checks the user's password unless you present the correct user password.
+https://android-developers.googleblog.com/2018/05/insider-attack-resistance.html
+
+Avast Threat Labs analyzed malware pre-installed on a thousands of Android devices. More than 18000 users of Avast already had this adware in a device. Cheap smartphones are primarily affected.
+https://blog.avast.com/android-devices-ship-with-pre-installed-malware
+
+Great blog post about the USB reverse engineering tools and practices by the Glenn 'devalias' Grant.
+http://devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole/
+
+FBI advice router users to reboot devices in order to remove VPNFilter malware infecting 500k devices.
+https://arstechnica.com/information-technology/2018/05/fbi-tells-router-users-to-reboot-now-to-kill-malware-infecting-500k-devices/
+
+If you didn't hear about the recent arbitrary code execution vulnerability in git software (CVE 2018-11234, CVE 2018-11235), there is a high level summary on the Microsoft DevOps blog.
+https://blogs.msdn.microsoft.com/devops/2018/05/29/announcing-the-may-2018-git-security-vulnerability/
+
+The white hat hacker received $25000 bug bounty for getting root access on all Shopify instances by leveraging Server Side Request Forgery (SSRF) attack.
+https://hackerone.com/reports/341876
+
+Attacking browsers by site-channel attacks using CSS3 features. The guys demonstrated how to deanonymize website visitors and more.
+https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/
+
+The Underhanded Crypto Contest for 2018 started, the topic has two categories: Backdooring messaging systems & Deceptive APIs. If you want to write some backdoor to the cryptographic implementation bud you do not harm anybody, this is a good opportunity.
+https://underhandedcrypto.com/2018/05/27/rules-for-the-2018-underhanded-crypto-contest/
+
+Article about the new threat model and potential mitigations for the Chrome browser against the Spectre like vulnerabilities.
+https://chromium.googlesource.com/chromium/src/+/master/docs/security/side-channel-threat-model.md
+
+New article by the Intercept about the Google military drone AI contract. They want to make fortune on an image recognition.
+https://theintercept.com/2018/05/31/google-leaked-emails-drone-ai-pentagon-lucrative/
+
+Codechain - secure multiparty code reviews with signatures and hash chains.
+According to the author, Codechain is not about making sure the code you execute is right, but making sure you execute the right code.
+https://github.com/frankbraun/codechain
